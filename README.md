@@ -2,4 +2,4 @@
 
 This is my first repository
 <br>
-Owner - Dharmendra Jadon(DeDemoo)
+Owner - Dharmendra Jadon(Demo)
